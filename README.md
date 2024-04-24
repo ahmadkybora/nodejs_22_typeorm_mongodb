@@ -1,0 +1,11 @@
+- npm init -y
+- npm i -D typescript
+- npm i -D ts-node
+- tsc --init
+- npm i express body-parser
+- npm i -D @types/express @types/body-parser
+- npm install typeorm --save
+- npm install @types/node --save-dev
+- npm install nodemon --save-dev
+- npm install mongodb@^5.2.0 --save
+- npm i dotenv
